@@ -18,7 +18,7 @@
 🎓 B.Tech Artificial Intelligence & Machine Learning @ St. Joseph’s College of Engineering (2027)  
 🔬 Currently Interning at **Authenta AI India**  
 🧠 Deep Learning | NLP | Computer Vision | Transformers  
-🏆 Hackathon Finalist | Community Volunteer | LLM Explorer  
+🏆 Hackathon Finalist | Community Volunteer | Deep Learning Explorer  
 
 📫 Reach me at: **[j.abishek3123@gmail.com](mailto:j.abishek3123@gmail.com)**  
 🔗 [LinkedIn](https://www.linkedin.com/in/j-abishek-007-525713d/) | [GitHub](https://github.com/MLAbishek)
@@ -50,7 +50,7 @@
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Abishek J/?theme=dark&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/connectabishek/?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
