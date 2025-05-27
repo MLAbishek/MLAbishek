@@ -50,7 +50,7 @@
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/MLAbishek?theme=dark&font=baloo&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/connectabishek/?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
