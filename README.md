@@ -1,81 +1,97 @@
-<h1 align="center">Hi 👋, I'm Abishek J</h1>
-<h3 align="center">Aspiring AI/ML Developer | Deep Learning Enthusiast | Problem Solver</h3>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Abishek+J;AI+%7C+ML+%7C+CV+Enthusiast;Building+projects+with+Deep+Learning+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+<h1 align="center">Welcome to My GitHub Profile 👨‍💻</h1>
 
 <p align="center">
-  <a href="mailto:j.abishek3123@gmail.com"><img src="https://img.shields.io/badge/Email-j.abishek3123@gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/j-abishek-007-525713d/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Abishek%20J-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/MLAbishek"><img src="https://img.shields.io/badge/GitHub-MLAbishek-black?style=flat-square&logo=github"></a>
+  <img src="https://img.shields.io/badge/-Abishek%20J-blueviolet?style=flat-square&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=MLAbishek&label=Profile%20views&color=brightgreen&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/MLAbishek?label=Follow&style=social" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🌟 About Me
 
-I'm an AI & ML enthusiast pursuing B.Tech in Artificial Intelligence and Machine Learning at St. Joseph’s College of Engineering (2027 batch). I love solving real-world problems using Deep Learning and Machine Learning, with a strong focus on impactful projects, hackathons, and open-source collaborations.
+🎓 B.Tech Artificial Intelligence & Machine Learning @ St. Joseph’s College of Engineering (2027)  
+🔬 Currently Interning at **Authenta AI India**  
+🧠 Deep Learning | NLP | Computer Vision | Transformers  
+🏆 Hackathon Finalist | Community Volunteer | LLM Explorer  
 
-- 🔭 Currently working on **Deepfake Detection using YOLOv8**
-- 🧠 Exploring **Transformers, LLMs, and NAS integrations**
-- 🏆 Hackathon finalist @ **Datathon**, **Sustain-AI-thon**, **PROJECTFEST-24**, and **Hack-O-Mania**
-- 🌐 Volunteering at **TechNexus Community** (Web Development Team)
-- 📬 Reach me at: [j.abishek3123@gmail.com](mailto:j.abishek3123@gmail.com)
-
----
-
-### 🛠️ Skills
-
-**Languages:** Python, SQL  
-**Frameworks & Tools:** TensorFlow, Scikit-learn, OpenCV, Flask, Pandas, NumPy  
-**Other Tools:** Git, SMBPython, Microsoft Office  
-**Soft Skills:** Problem Solving, Communication, Teamwork, Time Management
+📫 Reach me at: **[j.abishek3123@gmail.com](mailto:j.abishek3123@gmail.com)**  
+🔗 [LinkedIn](https://www.linkedin.com/in/j-abishek-007-525713d/) | [GitHub](https://github.com/MLAbishek)
 
 ---
 
-### 📚 Projects
+## 🚀 Tech Stack
 
-#### 🩺 Skin Disease Detector
-A web-based CNN model to detect skin cancer and classify skin diseases like Melanoma, Nevus, etc.  
-Achieved **99% accuracy** with multi-model architecture.
-
-#### 🧠 Mental Health Mood Analyzer
-A web app that detects user mood through speech or text and offers calm music, breathing exercises, and AI companionship using **Transformers** and **LangChain + Mistral LLMs**.
-
-#### 💧 Water Quality Classifier
-Classifies drinkability of water based on scientific parameters using Decision Tree Classifier with **86% accuracy**.
-
-#### 📦 NAS Video Retrieval Tool
-Python package to retrieve video data from Network Attached Storage using **SMBPython**, benchmarked against native `os` calls.
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
 ---
 
-### 🏅 Certifications
-
-- Machine Learning Specialization – **Coursera**
-- Data Science Foundation – **Infosys Springboard**
-- Python for Data Science – **NPTEL (Silver Medal)**
-- Networking Basics – **Cisco**
-- Machine Learning with Python & R – **Udemy**
-
----
-
-### 🏆 Achievements
-
-- 🥈 2nd Place — **Hack-O-Mania** (32 teams)
-- 🎖️ Top 5 — **PROJECTFEST-24** (110 teams)
-- 🧠 Top 15 — **Sustain-AI-thon** (100+ teams)
-- 📊 Top 8 — **Datathon** (250+ teams)
-
----
-
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MLAbishek&show_icons=true&theme=radical" alt="Abishek's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MLAbishek&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MLAbishek&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MLAbishek&theme=radical" />
 </p>
 
 ---
 
-### 💡 Let's Connect and Collaborate!
+## 💻 LeetCode Stats
 
-If you’re working on exciting AI/ML projects, open-source tools, or just want to share ideas — feel free to reach out! Let's innovate together. 🤝
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/MLAbishek?theme=dark&font=baloo&ext=contest" />
+</p>
 
+---
+
+## 💼 My Projects
+
+- 🔬 **Skin Disease Detector** – CNN-based web app with 99% accuracy on skin cancer and disease classification.
+- 🧘 **Mental Health Analyzer** – Mood detection + AI Chatbot + Calm music & breathing using Transformers & LangChain.
+- 💧 **Water Quality Classifier** – Decision tree model to check drinkability (86% accuracy).
+- 📦 **NAS Video Tool** – Python package to retrieve video data from NAS using SMBPython and benchmarking tools.
+
+---
+
+## 🏅 Achievements & Certifications
+
+- 🥇 Hack-O-Mania – 2nd Place
+- 🥈 PROJECTFEST-24 – Top 5 out of 110 teams
+- 🏅 Sustain-AI-thon – Top 15 out of 100+ teams
+- 🏅 Datathon – Top 8 out of 250+ teams
+
+📜 **Certifications:**  
+- Machine Learning (Coursera)  
+- Data Science Foundations (Infosys Springboard)  
+- Python for Data Science (NPTEL Silver)  
+- Networking Basics (Cisco)  
+- ML with Python & R (Udemy)
+
+---
+
+## 🌱 Let's Connect
+
+- 🤝 Open to collaborations on impactful AI/ML projects
+- 🌐 Contributing to **Tech Nexus** as a community web developer
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MLAbishek&theme=github_dark" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
