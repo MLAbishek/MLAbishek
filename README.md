@@ -16,7 +16,6 @@
 ## 🌟 About Me
 
 🎓 B.Tech Artificial Intelligence & Machine Learning @ St. Joseph’s College of Engineering (2027)  
-🔬 Currently Interning at **Authenta AI India**  
 🧠 Deep Learning | NLP | Computer Vision | Transformers  
 🏆 Hackathon Finalist | Community Volunteer | Deep Learning Explorer  
 
