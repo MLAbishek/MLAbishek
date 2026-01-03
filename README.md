@@ -35,16 +35,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MLAbishek&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MLAbishek&theme=radical" />
-</p>
-
----
 
 ---
 
